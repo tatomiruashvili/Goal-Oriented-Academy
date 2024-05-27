@@ -1,0 +1,16 @@
+table {
+    width: 500px;
+    height: 200px;
+    background-color: aliceblue;
+    border-collapse: collapse;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+}
+tr{
+    text-align: center;
+}
+.ftr {
+    background-color: rgb(14, 172, 119);
+    margin: 25px 0;
+    color: white;
+} 
